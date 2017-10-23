@@ -1,0 +1,38 @@
+### Python ###
+*.pyc
+*.py~
+*.txt~
+*.py[cod]
+
+### Emacs ###
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+### vim ###
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+#
+*.log
+*.db
+#venv
+/bin
+/include
+/env
+/lib/python*/*
+/data
+/temp
+.coverage
+.coveragerc
