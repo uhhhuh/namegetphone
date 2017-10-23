@@ -1,0 +1,4 @@
+id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender,wikidata,wikidata_group,wikidata_area
+40203e8c-1d8a-4428-beff-71c3d0fc211b,Абрамов Иван Николаевич,Абрамов Иван Николаевич,,,,ЛДПР,ЛДПР,71,Амурская область,Duma,7,,,http://www.duma.gov.ru/upload/iblock/493/4934f89707f3ce4c27464686946ff494.jpg,male,Q4054921,Q212115,
+7f582309-4d2b-4225-b0f6-107e754a3d3f,Авдеев Александр Александрович,Авдеев Александр Александрович,,,,«ЕДИНАЯ РОССИЯ»,«ЕДИНАЯ_РОССИЯ»,99,Калужская область,Duma,7,,,http://www.duma.gov.ru/upload/iblock/3cc/3cc673e3c0529aa9c43f54b859bd415d.jpg,male,Q28495038,Q151469,
+f4ecde21-be1e-4de7-9604-eaf831e6556b,Агаев Ваха Абуевич,Агаев Ваха Абуевич,,,,КПРФ,КПРФ,area/все_субъекты_Российской_Федерации,все субъекты Российской Федерации,Duma,7,,,http://www.duma.gov.ru/upload/iblock/f9b/f9b745d07c95dc2252c2e38b3e97be2c.jpg,male,Q26776688,Q192187,

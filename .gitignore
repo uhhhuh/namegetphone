@@ -32,7 +32,6 @@ Session.vim
 /include
 /env
 /lib/python*/*
-/data
 /temp
 .coverage
 .coveragerc
